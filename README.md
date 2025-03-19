@@ -1,14 +1,14 @@
 ### Hi there, I'm Thant Htut Aung! 👋
 
-I'm passionate about **Machine Learning, AI, Web Development, and Open Source**. Currently, I'm working on projects related to **OCR, image upscaling, and chatbot development**.
+I'm passionate about **Machine Learning, AI, Web Development, and Open Source**. 
+Currently, I'm working on projects related to **OCR, image upscaling, and chatbot development**.
 
 ---
 
 ### 🚀 About Me
 - 🎓 **Electrical and Data Engineering** student at Thammasat University
 - 🏆 **100% scholarship recipient** with a monthly stipend
-- 👨‍🏫 SAT Assistant Teacher at Simplexity (Non-Profit Education Platform)
-- 🤖 Currently working on **Craft OCR and AI-driven projects**
+- 🤖 Currently working on **OCR and AI-driven projects**
 - 💡 Learning **Deep Learning, NLP, and Computer Vision**
 - 🌎 Exploring **Machine Learning for real-world applications**
 
