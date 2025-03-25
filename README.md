@@ -7,7 +7,6 @@ Currently, I'm working on projects related to **OCR and chatbot development**.
 
 ### 🚀 About Me
 - 🎓 **Electrical and Data Engineering** student at Thammasat University
-- 🏆 **100% scholarship recipient** with a monthly stipend
 - 🤖 Currently working on **OCR and AI-driven projects**
 - 💡 Learning **Deep Learning, NLP, and Computer Vision**
 - 🌎 Exploring **Machine Learning for real-world applications**
