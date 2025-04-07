@@ -1,19 +1,19 @@
-### Hi there, I'm Thant Htut Aung! 👋
+### Hi there, I'm Thant Htut Aung! 
 
-I'm passionate about **Machine Learning, AI, Web Development, and Open Source**. 
+I'm passionate about **Machine Learning Algorithms, Deep Learning Architectures**. 
 Currently, I'm working on projects related to **OCR and chatbot development**.
 
 ---
 
-### 🚀 About Me
-- 🎓 **Electrical and Data Engineering** student at Thammasat University
-- 🤖 Currently working on **OCR and AI-driven projects**
-- 💡 Learning **Deep Learning, NLP, and Computer Vision**
-- 🌎 Exploring **Machine Learning for real-world applications**
+### About Me
+-  **Electrical and Data Engineering** student at Thammasat University
+-  Currently working on **OCR and AI-driven projects**
+-  Learning **Deep Learning, NLP, and Computer Vision**
+-  Exploring **Machine Learning for real-world applications**
 
 ---
 
-### 🛠️ Languages and Tools:  
+### Languages and Tools:  
 <p align="left">  
   <a href="https://www.python.org/" target="_blank">  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
@@ -48,10 +48,10 @@ Currently, I'm working on projects related to **OCR and chatbot development**.
 </p>
 
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![Thant Htut Aung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenryHtut&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryHtut&layout=compact&theme=tokyonight)
 
 
-⭐️ **Feel free to check out my repositories and contribute!** 🚀
+ **Feel free to check out my repositories and contribute!** 
