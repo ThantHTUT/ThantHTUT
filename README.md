@@ -1,6 +1,6 @@
 ### Hi there, I'm Thant Htut Aung! 
 
-I'm passionate about **Machine Learning Algorithms, Deep Learning Architectures**. 
+I'm passionate about **Machine Learning Algorithms and Deep Learning Architectures**. 
 Currently, I'm working on projects related to **OCR and chatbot development**.
 
 ---
