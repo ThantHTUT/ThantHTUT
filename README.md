@@ -49,9 +49,9 @@ Currently, I'm working on projects related to **OCR and chatbot development**.
 
 
 ### GitHub Stats
-![Thant Htut Aung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenryHtut&show_icons=true&theme=tokyonight)
+![Thant Htut Aung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThantHTUT&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryHtut&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThantHTUT&layout=compact&theme=tokyonight)
 
 
  **Feel free to check out my repositories and contribute!** 
